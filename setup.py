@@ -20,5 +20,5 @@ setup(name='mini-hawkular-client',
           'Programming Language :: Python :: 2',
           'Topic :: System :: Monitoring',
       ],
-      packages=['mini-hawkular']
+      packages=['mini_hawkular']
       )
